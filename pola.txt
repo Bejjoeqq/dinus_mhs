@@ -1,0 +1,6 @@
+kalku 2 = 5
+fisika 2 = 30
+alpro = 55
+rld = 80
+basis = 55
+
